@@ -1,28 +1,28 @@
-# 🚀 Hi, I'm Anuruddha Kumar Kahar!
+# 🚀 Anuruddha Kumar Kahar
 
-**B.Tech CSE Student @ JG University** I am a tech enthusiast focused on building a strong foundation in Computer Science while exploring the creative side of AI.
+**Backend Developer | Python & C++ | Generative AI & Automation**
 
----
-
-### 🔍 About Me
-- 🎓 **Education:** Pursuing B.Tech in CSE (1st Year).
-- 🎯 **Current Focus:** Mastering **DSA** & **DBMS** while preparing for **GATE**.
-- 🤖 **Projects:** Training custom AI models and building database-driven applications.
-- 🎬 **Creative:** Content creator blending AI technology with superhero pop culture.
-
-### 🛠️ Technical Toolbox
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | Python, C++, SQL |
-| **Interests** | AI/ML, ER Modeling, Content Creation |
-| **Platforms** | GitHub, Kaggle, LinkedIn |
-
-### 📫 Let's Connect!
-- 💼 **LinkedIn:** [Anuruddha Kahar](https://www.linkedin.com/in/anuruddha-kahar-9a34a2376)
-- 📧 **Email:** [Anuruddha Kahar](https://mail.google.com/mail/u/iamanirudh.s.kahar@gmail.com)
-
+I am a Computer Science student at JG University focused on architecting high-integrity backend systems and scalable automation workflows. I specialize in bridging the gap between complex data structures and functional AI-driven applications.
 
 ---
-*“Building a strong foundation today to create the technology of tomorrow.”*
----
 
+### 🛠️ Technical Arsenal
+* **Languages:** Python, C++, SQL (MySQL)
+* **Core Engineering:** Data Structures & Algorithms (DSA), OOP, Database Management (DBMS)
+* **AI Specialization:** Generative AI Workflows, Model Fine-tuning, Automated Media Pipelines
+
+### 🏆 Key Achievements
+* **Runner-up | JG Internal Hackathon:** Engineered a backend integration for a digital heritage preservation platform (Rajpipla Palace).
+* **Participant | Smart India Hackathon (SIH):** Developed a data-driven prototype to automate goal-tracking for the Government E-Office.
+
+### 📂 Featured Projects
+* **[AI Stock Prediction Engine](https://stockinsightai5.vercel.app/):** Predictive tool using Python to analyze market volatility and automate trend visualization.
+* **[Rajpipla Palace Platform](https://rajpiplapalace.netlify.app/):** A cultural heritage digitization project focused on streamlined data retrieval.
+* **Bank Management System:** A high-integrity C++ application focused on secure transactional logic and modular OOP design.
+
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/anuruddha-kahar](https://www.linkedin.com/in/anuruddha-kahar-9a34a2376)
+* **Email:** iamanirudh.s.kahar@gmail.com
+
+---
+*"Engineering robust solutions today for the challenges of tomorrow."*
